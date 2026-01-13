@@ -1,2 +1,39 @@
-# QunatProjects
-collections of all my Quant and Quant related projects with entire documentation
+# QuantProjects
+# Quantitative Finance Projects
+
+Collection of quantitative finance and algorithmic trading projects demonstrating expertise in derivatives pricing, statistical arbitrage, portfolio optimization, and machine learning.
+
+## Projects
+
+### 1. Black-Scholes Option Pricing Model
+- European options pricing with Greeks calculation (Delta, Gamma, Vega, Theta, Rho)
+- Implied volatility solver using Newton-Raphson method
+- Market data integration and model validation
+- **Tech:** Python, NumPy, SciPy, yfinance
+
+### 2. Portfolio Optimization (Markowitz Theory)
+- Mean-variance optimization maximizing Sharpe ratio
+- Efficient frontier analysis
+- Achieved 58.6% return with 1.32 Sharpe ratio
+- **Tech:** Python, SciPy, Pandas
+
+### 3. Pairs Trading (Statistical Arbitrage)
+- Cointegration-based mean-reversion strategy
+- ADF testing, OLS regression, z-score signals
+- 14.5% return, 0.67 Sharpe, 4.1% max drawdown
+- **Tech:** Python, Statsmodels, Matplotlib
+
+### 4. Credit Scoring Model
+- ML classification using Logistic Regression, Random Forest, XGBoost
+- 85% accuracy with hyperparameter tuning
+- ROC-AUC analysis and regulatory compliance focus
+- **Tech:** Python, Scikit-learn, Pandas
+
+## Contact
+Kartikeya Singh 
+[LinkedIn](www.linkedin.com/in/kartikeyasingh10066)
+[Email](kartikeyasinghdec29@gmail.com)
+
+
+
+
